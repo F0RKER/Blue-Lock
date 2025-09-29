@@ -6,3 +6,5 @@ Buffed the power of Sae x Shidou and Hiori X NEL Isagi's chemical reactions by 1
 Increased NEL Rin's ANNIHILATE power by 8%
 NEL Rin's ANNIHILATE loses speed up to 60% faster (shot slows more noticably as it travels further)
 Shidou's KABLAMO!! strength increased by 20%
+Shidou's Dragon Header strength increased by 42%
+Shidou's Dragon Header loses speed up to 50% faster (shot slows more noticeably as it travels further)
