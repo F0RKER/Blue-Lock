@@ -12,3 +12,4 @@ Balance Changes:
 🟢 Removed enemy requirement for beautiful shot
 🟢 Beautiful Shot strength increased by 50%
 🟡 Beautiful Shot now curves more significantly
+🟢 (Rare) Isagi's Final Shot strength increased by 25%
