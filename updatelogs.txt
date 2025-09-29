@@ -5,4 +5,4 @@ Fixed issue causing Kaiser Impact to have ~10 times higher range & power if you 
 Buffed the power of Sae x Shidou and Hiori X NEL Isagi's chemical reactions by 15%
 Increased NEL Rin's ANNIHILATE power by 8%
 NEL Rin's ANNIHILATE loses speed up to 60% faster (shot slows more noticably as it travels further)
-Shidou's KABLAMO!! strength increased by 10%
+Shidou's KABLAMO!! strength increased by 20%
