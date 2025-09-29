@@ -1,14 +1,14 @@
 Balance Changes:
-(Rare) Isagi’s Direct Shot strength increased by 20%
-(World Class) NEL Isagi’s Direct Shot strength increased by 25%
-Fixed issue causing Kaiser Impact to have ~10 times higher range & power if you combine a header into a shot.
-Buffed the power of Sae x Shidou and Hiori X NEL Isagi's chemical reactions by 15%
-Increased NEL Rin's ANNIHILATE power by 8%
-NEL Rin's ANNIHILATE loses speed up to 60% faster (shot slows more noticably as it travels further)
-Shidou's KABLAMO!! strength increased by 20%
-Shidou's Dragon Header strength increased by 42%
-Shidou's Dragon Header loses speed up to 50% faster (shot slows more noticeably as it travels further)
-Fixed Divine Destruction's auto-goal shooting pattern
-Removed enemy requirement for beautiful shot
-Beautiful Shot strength increased by 50%
-Beautiful Shot now curves more significantly
+🟢 (Rare) Isagi’s Direct Shot strength increased by 20%
+🟢 (World Class) NEL Isagi’s Direct Shot strength increased by 25%
+🟢 Increased Kaiser Impact's max shooting range by 12%
+🟢 Buffed the power of Sae x Shidou and Hiori X NEL Isagi's chemical reactions by 15%
+🟢 Increased NEL Rin's ANNIHILATE power by 8%
+🔴 NEL Rin's ANNIHILATE loses speed up to 60% faster (shot slows more noticably as it travels further)
+🟢 Shidou's KABLAMO!! strength increased by 20%
+🟢 Shidou's Dragon Header strength increased by 42%
+🔴 Shidou's Dragon Header loses speed up to 50% faster (shot slows more noticeably as it travels further)
+🟢 Fixed Divine Destruction's auto-goal shooting pattern
+🟢 Removed enemy requirement for beautiful shot
+🟢 Beautiful Shot strength increased by 50%
+🔴 Beautiful Shot now curves more significantly
