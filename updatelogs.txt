@@ -8,3 +8,7 @@ NEL Rin's ANNIHILATE loses speed up to 60% faster (shot slows more noticably as 
 Shidou's KABLAMO!! strength increased by 20%
 Shidou's Dragon Header strength increased by 42%
 Shidou's Dragon Header loses speed up to 50% faster (shot slows more noticeably as it travels further)
+Fixed Divine Destruction's auto-goal shooting pattern
+Removed enemy requirement for beautiful shot
+Beautiful Shot strength increased by 50%
+Beautiful Shot now curves more significantly
