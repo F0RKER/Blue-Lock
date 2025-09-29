@@ -1,4 +1,5 @@
 Balance Changes:
 Isagi’s Direct Shot strength increased by 20%
 NEL Isagi’s Direct Shot strength increased by 25%
-Fixed issue causing Kaiser Impact to have ~10 times range & power if you combine header into a shot.
+Fixed issue causing Kaiser Impact to have ~10 times range & power if you combine a header into a shot.
+Buffed the power of Sae x Shidou and Hiori X NEL Isagi's chemical reactions by 15%
