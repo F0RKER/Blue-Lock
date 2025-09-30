@@ -17,4 +17,4 @@ Balance Changes:
 🟢 Increased Don Lorenzo's Golden Defense Hitbox Size by ~25%
 🟢 Added iframes to Don Lorenzo's Golden Defense's Ball Deflection
 🟢 Fixed some issues with Sae's moves when used by specific player positions
-🟢 Reduced Chemical Reaction Cooldown by ~17%
+🟢 Reduced Cooldown of all Chemical Reactions by ~17%
