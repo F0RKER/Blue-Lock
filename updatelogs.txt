@@ -13,4 +13,6 @@ Balance Changes:
 🟢 Beautiful Shot strength increased by 50%
 🟡 Beautiful Shot now curves more significantly
 🟢 (Rare) Isagi's Final Shot strength increased by 25%
-🟢 Reworked Golden Defense to make it more reliable/effective
+🟢 Reworked Don Lorenzo's Golden Defense to make it more reliable/effective
+🟢 Increased Don Lorenzo's Golden Defense Hitbox Size by ~25%
+🟢 Added iframes to Don Lorenzo's Golden Defense's Ball Deflection
