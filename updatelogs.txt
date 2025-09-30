@@ -19,3 +19,4 @@ Balance Changes:
 🟢 Added iframes to Don Lorenzo's Golden Defense's Ball Deflection
 🟢 Fixed some issues with Sae's moves when used by specific player positions
 🟢 Reduced Cooldown of all Chemical Reactions by ~17%
+🟢 Increased Don Lorenzo's Zombie Dash Distance Covered by 3.1%
