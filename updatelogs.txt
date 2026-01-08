@@ -1,23 +1,4 @@
 Balance Changes:
-🟢 (Rare) Isagi’s Direct Shot strength increased by 20%
-🟢 (Rare) Isagi's Final Shot strength increased by 25%
-🟢 (World Class) NEL Isagi’s Direct Shot strength increased by 25%
-🟢 Increased Kaiser Impact's max shooting range by 12%
-🟡 Fixed a bug which allowed headers to make shooting moves much more powerful when used in unison (kaiser impact could've gone full field AND BACK!)
-🟢 Buffed the power of Sae x Shidou and Hiori X NEL Isagi's chemical reactions by 15%
-🟢 Increased NEL Rin's ANNIHILATE power by 8%
-🔴 NEL Rin's ANNIHILATE loses speed up to 60% faster (shot slows more noticably as it travels further)
-🟢 Shidou's KABLAMO!! strength increased by 20%
-🟢 Shidou's Dragon Header strength increased by 42%
-🔴 Shidou's Dragon Header loses speed up to 50% faster (shot slows more noticeably as it travels further)
-🟢 Fixed Divine Destruction's auto-goal shooting pattern
-🟢 Removed enemy requirement for beautiful shot
-🟢 Beautiful Shot strength increased by 50%
-🟡 Beautiful Shot now curves more significantly
-🟢 Reworked Don Lorenzo's Golden Defense to make it more reliable/effective
-🟢 Increased Don Lorenzo's Golden Defense Hitbox Size by ~25%
-🟢 Added iframes to Don Lorenzo's Golden Defense's Ball Deflection
-🟢 Fixed some issues with Sae's moves when used by specific player positions
-🟢 Reduced Cooldown of all Chemical Reactions by ~17%
-🟢 Increased Don Lorenzo's Zombie Dash Distance Covered by 3.1%
-🟢 Increased Distance covered by Don Lorenzo's Zombie Dribble by 6.7%
+🔴 Reduced the power of all shooting moves
+🟡 Reworked all styles
+🟢 Player GKS can now dive on players in their area to steal the ball
