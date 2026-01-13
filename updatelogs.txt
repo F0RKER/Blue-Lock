@@ -6,6 +6,7 @@
 🟢 Loki Velocity Dash Cooldown - 25 ➨ 15
 🟢 Loki Swift Intercept Cooldown - 35 ➨ 15
 🟢 Slightly reduced Loki's stamina drain (still loses stamina faster than other styles)
+🟢 Reduced the time before Loki gains velocity - 3s ➨ 1.5s
 🔴 Reduced Velocity Passive Speed boost by 60%
 🔴 Reduced the rate Loki gains velocity by 50%
 
