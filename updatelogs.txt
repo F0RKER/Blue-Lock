@@ -1,5 +1,6 @@
 (v1.22) Balance Changes:
 🔴 Reduced Velocity Passive Speed boost by 60%
+🔴 Reduced Speedster Speed Buff by 55%
 🟢 Loki Explosive Acceleration Cooldown - 40 ➨ 25
 🟢 Loki Velocity Dash Cooldown - 25 ➨ 15
 🟢 Loki Swift Intercept Cooldown - 35 ➨ 15
