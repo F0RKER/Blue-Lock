@@ -1,6 +1,8 @@
 (v1.22) Balance Changes:
 -- Chigiri --
 🔴 Reduced Speedster Speed Buff by 55%
+-- Otoya --
+🔴 Reduced Ninja Shot's shooting power by 20%
 -- Loki --
 🟢 Loki Explosive Acceleration Cooldown - 40 ➨ 25
 🟢 Loki Velocity Dash Cooldown - 25 ➨ 15
@@ -10,8 +12,7 @@
 🟡 Slightly reduced Loki's stamina drain (still loses stamina faster than other styles)
 🔴 Reduced Velocity Passive Speed boost by 60%
 🔴 Reduced the rate Loki gains velocity by 50%
--- Otoya --
-🔴 Reduced Ninja Shot's shooting power by 20%
+
 
 (v1.21) Balance Changes:
 🟢 Added Reo's Copy Move
