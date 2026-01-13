@@ -1,4 +1,19 @@
-Balance Changes:
+(v1.22) Balance Changes:
+🔴 Reduced Velocity Passive Speed boost by 60%
+🟢 Loki Explosive Acceleration Cooldown - 40 ➨ 25
+🟢 Loki Velocity Dash Cooldown - 25 ➨ 15
+🟢 Loki Swift Intercept Cooldown - 35 ➨ 15
+
+(v1.21) Balance Changes:
+🟢 Added Reo's Copy Move
+🟢 Added Reo Metavision Passive (Can see anyone's style)
+🟡 Fixed a glitch which let you use offensive moves on GKs while inside the penalty area
+
+(v1.2) Balance Changes:
+🟡 Added new styles
+🟡 Added iframes for Player GKS in net
+
+(v1.1) Balance Changes:
 🔴 Reduced the power of all shooting moves
 🟡 Reworked all styles
 🟢 Player GKS can now dive on players in their area to steal the ball
