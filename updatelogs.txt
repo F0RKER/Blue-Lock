@@ -1,13 +1,13 @@
 (v1.22) Balance Changes:
 -- Chigiri --
-🔴 Reduced Velocity Passive Speed boost by 60%
+🔴 Reduced Speedster Speed Buff by 55%
 -- Loki --
 🟢 Loki Explosive Acceleration Cooldown - 40 ➨ 25
 🟢 Loki Velocity Dash Cooldown - 25 ➨ 15
 🟢 Loki Swift Intercept Cooldown - 35 ➨ 15
 🟢 Slightly reduced Loki's stamina drain (still loses stamina faster than other styles)
-🔴 Reduced Loki's Speed Boost
-🔴 Reduced Speedster Speed Buff by 55%
+🔴 Reduced Velocity Passive Speed boost by 60%
+🔴 Reduced the rate Loki gains velocity by 50%
 
 (v1.21) Balance Changes:
 🟢 Added Reo's Copy Move
