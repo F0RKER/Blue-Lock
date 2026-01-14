@@ -1,7 +1,7 @@
 (v1.22) Balance Changes:
 // GENERAL //
 🟡 Added Flows back to the game
-🔴 Critically reduced Godspeed's Velocity Cap increase & Boosts
+🔴 Critically reduced Godspeed's Velocity Cap increase & other boosts
 🔴 Removed Godspeed's bonus steals
 🔴 Added Stamina Drain to Destructive Impulses & Puzzle
 // STYLES //
