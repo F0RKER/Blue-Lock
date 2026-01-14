@@ -1,8 +1,10 @@
 (v1.22) Balance Changes:
+// GENERAL //
 🟡 Added Flows back to the game
 🔴 Reduced Godspeed Velocity Cap & Boost
 🔴 Removed Godspeed's extra steals
 🔴 Added Stamina Drain to Destructive Impulses & Puzzle
+// STYLES //
 -- Chigiri --
 🔴 Reduced Speedster Speed Buff by 55%
 -- Otoya --
