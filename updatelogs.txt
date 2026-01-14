@@ -2,7 +2,7 @@
 // GENERAL //
 🟡 Added Flows back to the game
 🔴 Reduced Godspeed Velocity Cap & Boost
-🔴 Removed Godspeed's extra steals
+🔴 Removed Godspeed's bonus steals
 🔴 Added Stamina Drain to Destructive Impulses & Puzzle
 // STYLES //
 -- Chigiri --
