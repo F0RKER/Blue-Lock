@@ -1,5 +1,5 @@
 (v1.23) Balance Changes:
-🔴 Slightly reduced IMPACT's range
+🔴 Slightly reduced IMPACT's range & power
 🟡 Slightly reduced speed of Kaiser Impact & increased maximum range
 
 (v1.22) Balance Changes:
