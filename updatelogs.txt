@@ -1,3 +1,7 @@
+(v1.23) Balance Changes:
+🔴 Slightly reduced IMPACT's range
+🟡 Slightly reduced speed of Kaiser Impact & increased maximum range
+
 (v1.22) Balance Changes:
 // GENERAL //
 🟡 Added Flows back to the game + some new flows
@@ -11,13 +15,13 @@
 🔴 Reduced Ninja Shot's shooting power by 20%
 -- Loki --
 🟡 Slightly reduced Loki's stamina drain (still loses stamina faster than other styles)
+🔴 Reduced Velocity Passive Speed boost by 60%
+🔴 Reduced the rate Loki gains velocity by 50%
 🟢 Loki Explosive Acceleration Cooldown - 40 ➨ 25
 🟢 Loki Velocity Dash Cooldown - 25 ➨ 15
 🟢 Loki Swift Intercept Cooldown - 35 ➨ 15
 🟢 Reduced the time before Loki gains velocity while sprinting - 3s ➨ 1.5s
 🟢 Reduced Loki's velocity loss while walking by 50%
-🔴 Reduced Velocity Passive Speed boost by 60%
-🔴 Reduced the rate Loki gains velocity by 50%
 
 (v1.21) Balance Changes:
 🟢 Added Reo's Copy Move
